@@ -1,5 +1,3 @@
-// import { message } from "prompt";
-
 import chalk from "chalk";
 
 // SCHEMA
