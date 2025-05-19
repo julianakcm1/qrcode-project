@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./src/assets/qr-code_icon.png" width=130 height=130>
+<img src="https://github.com/user-attachments/assets/8c35cd3f-843a-448e-b07d-e5afeeb0a3d1" width=130 height=130>
 
 # 🔐 QR & Password Generator CLI <br>
 
