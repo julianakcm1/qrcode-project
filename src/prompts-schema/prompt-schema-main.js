@@ -1,7 +1,6 @@
 import chalk from "chalk";
 
-// SCHEMA
-const mainPrompt = [
+const promptSchemaMain = [
   {
     name: "select",
     description: chalk.hex('#FFA500').bold("Choose the tool (1 - QR CODE) or (2 - PASSWORD)"),
@@ -12,4 +11,4 @@ const mainPrompt = [
   }
 ]
 
-export default mainPrompt;
+export default promptSchemaMain;
